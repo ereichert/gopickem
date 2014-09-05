@@ -1,8 +1,8 @@
 package main
 
 import (
-	g "com.reichertconsulting/gopickem/gopickem"
 	"fmt"
+	g "github.com/ereichert/gopickem"
 	"os"
 )
 
@@ -11,7 +11,7 @@ func main() {
 	spreadRecordsFilename := "data/ats.csv"
 
 	spreadRecords, err := g.ReadSpreadRecordsFromCSVFile(spreadRecordsFilename)
-	if(err != nil){
+	if err != nil {
 		fmt.Printf("An error occured while trying to read the spread records from %v.\n", spreadRecordsFilename)
 		fmt.Printf("The error was \n%v.\n", err.Error())
 		os.Exit(1)
@@ -54,7 +54,7 @@ func main() {
 		}
 		fmt.Printf("%v are %v and %v against all common opponents.\n", awayTeam.Team, awayTotalWins, awayTotalLosses)
 		fmt.Printf("%v are %v and %v against all common opponents.\n", homeTeam.Team, homeTotalWins, homeTotalLosses)
-		
+
 		fmt.Println("---------------------------------------------------------------------------------------\n")
 	}
 }
