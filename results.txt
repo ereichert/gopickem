@@ -1,0 +1,1122 @@
+Pickem 0.1.0-SNAPSHOT.
+
+---------------------------------------------------------------------------------------
+
+Carolina Panthers @ Atlanta Falcons
+
+--Records against the spread--
+
+Carolina Panthers: total = 0.6, home = 0.75, away = 0.429
+Atlanta Falcons: total = 0.4, home = 0.429, away = 0.375
+Atlanta Falcons wins against the spread.
+
+--Records against common opponents--
+
+New England Patriots @ Carolina Panthers: Carolina Panthers won by 4 points
+New England Patriots @ Atlanta Falcons: Atlanta Falcons lost by 7 points
+Carolina Panthers are 1 and 0 against New England Patriots with a point differential of 4
+Atlanta Falcons are 0 and 1 against New England Patriots with a point differential of -7
+
+Seattle Seahawks @ Carolina Panthers: Carolina Panthers lost by 5 points
+Seattle Seahawks @ Atlanta Falcons: Atlanta Falcons lost by 23 points
+Carolina Panthers are 0 and 1 against Seattle Seahawks with a point differential of -5
+Atlanta Falcons are 0 and 1 against Seattle Seahawks with a point differential of -23
+
+Carolina Panthers @ Buffalo Bills: Carolina Panthers lost by 1 points
+Atlanta Falcons @ Buffalo Bills: Atlanta Falcons won by 3 points
+Carolina Panthers are 0 and 1 against Buffalo Bills with a point differential of -1
+Atlanta Falcons are 1 and 0 against Buffalo Bills with a point differential of 3
+
+Carolina Panthers @ Arizona Cardinals: Carolina Panthers lost by 16 points
+Atlanta Falcons @ Arizona Cardinals: Atlanta Falcons lost by 14 points
+Carolina Panthers are 0 and 1 against Arizona Cardinals with a point differential of -16
+Atlanta Falcons are 0 and 1 against Arizona Cardinals with a point differential of -14
+
+St. Louis Rams @ Carolina Panthers: Carolina Panthers won by 15 points
+St. Louis Rams @ Atlanta Falcons: Atlanta Falcons won by 7 points
+Carolina Panthers are 1 and 0 against St. Louis Rams with a point differential of 15
+Atlanta Falcons are 1 and 0 against St. Louis Rams with a point differential of 7
+
+Carolina Panthers @ Tampa Bay Buccaneers: Carolina Panthers won by 18 points
+Tampa Bay Buccaneers @ Carolina Panthers: Carolina Panthers won by 21 points
+Tampa Bay Buccaneers @ Atlanta Falcons: Atlanta Falcons won by 8 points
+Atlanta Falcons @ Tampa Bay Buccaneers: Atlanta Falcons lost by 13 points
+Carolina Panthers are 2 and 0 against Tampa Bay Buccaneers with a point differential of 39
+Atlanta Falcons are 1 and 1 against Tampa Bay Buccaneers with a point differential of -5
+
+Carolina Panthers @ San Francisco 49ers: Carolina Panthers won by 1 points
+Atlanta Falcons @ San Francisco 49ers: Atlanta Falcons lost by 10 points
+Carolina Panthers are 1 and 0 against San Francisco 49ers with a point differential of 1
+Atlanta Falcons are 0 and 1 against San Francisco 49ers with a point differential of -10
+
+Carolina Panthers @ Miami Dolphins: Carolina Panthers won by 4 points
+Atlanta Falcons @ Miami Dolphins: Atlanta Falcons lost by 4 points
+Carolina Panthers are 1 and 0 against Miami Dolphins with a point differential of 4
+Atlanta Falcons are 0 and 1 against Miami Dolphins with a point differential of -4
+
+Carolina Panthers @ New Orleans Saints: Carolina Panthers lost by 18 points
+New Orleans Saints @ Carolina Panthers: Carolina Panthers won by 4 points
+Atlanta Falcons @ New Orleans Saints: Atlanta Falcons lost by 6 points
+New Orleans Saints @ Atlanta Falcons: Atlanta Falcons lost by 4 points
+Carolina Panthers are 1 and 1 against New Orleans Saints with a point differential of -14
+Atlanta Falcons are 0 and 2 against New Orleans Saints with a point differential of -10
+
+New York Jets @ Carolina Panthers: Carolina Panthers won by 10 points
+New York Jets @ Atlanta Falcons: Atlanta Falcons lost by 2 points
+Carolina Panthers are 1 and 0 against New York Jets with a point differential of 10
+Atlanta Falcons are 0 and 1 against New York Jets with a point differential of -2
+
+Carolina Panthers are 8 and 4 against all common opponents.
+Atlanta Falcons are 3 and 9 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Green Bay Packers @ Chicago Bears
+
+--Records against the spread--
+
+Green Bay Packers: total = 0.333, home = 0.375, away = 0.286
+Chicago Bears: total = 0.267, home = 0.143, away = 0.375
+Green Bay Packers wins against the spread.
+
+--Records against common opponents--
+
+Washington Redskins @ Green Bay Packers: Green Bay Packers won by 18 points
+Chicago Bears @ Washington Redskins: Chicago Bears lost by 4 points
+Green Bay Packers are 1 and 0 against Washington Redskins with a point differential of 18
+Chicago Bears are 0 and 1 against Washington Redskins with a point differential of -4
+
+Green Bay Packers @ Cincinnati Bengals: Green Bay Packers lost by 4 points
+Cincinnati Bengals @ Chicago Bears: Chicago Bears won by 3 points
+Green Bay Packers are 0 and 1 against Cincinnati Bengals with a point differential of -4
+Chicago Bears are 1 and 0 against Cincinnati Bengals with a point differential of 3
+
+Detroit Lions @ Green Bay Packers: Green Bay Packers won by 13 points
+Green Bay Packers @ Detroit Lions: Green Bay Packers lost by 30 points
+Chicago Bears @ Detroit Lions: Chicago Bears lost by 8 points
+Detroit Lions @ Chicago Bears: Chicago Bears lost by 2 points
+Green Bay Packers are 1 and 1 against Detroit Lions with a point differential of -17
+Chicago Bears are 0 and 2 against Detroit Lions with a point differential of -10
+
+Green Bay Packers @ Baltimore Ravens: Green Bay Packers won by 2 points
+Baltimore Ravens @ Chicago Bears: Chicago Bears won by 3 points
+Green Bay Packers are 1 and 0 against Baltimore Ravens with a point differential of 2
+Chicago Bears are 1 and 0 against Baltimore Ravens with a point differential of 3
+
+Green Bay Packers @ Minnesota Vikings: Green Bay Packers won by 13 points
+Minnesota Vikings @ Green Bay Packers: Green Bay Packers lost by 0 points
+Minnesota Vikings @ Chicago Bears: Chicago Bears won by 1 points
+Chicago Bears @ Minnesota Vikings: Chicago Bears lost by 3 points
+Green Bay Packers are 1 and 1 against Minnesota Vikings with a point differential of 13
+Chicago Bears are 1 and 1 against Minnesota Vikings with a point differential of -2
+
+Cleveland Browns @ Green Bay Packers: Green Bay Packers won by 18 points
+Chicago Bears @ Cleveland Browns: Chicago Bears won by 7 points
+Green Bay Packers are 1 and 0 against Cleveland Browns with a point differential of 18
+Chicago Bears are 1 and 0 against Cleveland Browns with a point differential of 7
+
+Philadelphia Eagles @ Green Bay Packers: Green Bay Packers lost by 14 points
+Chicago Bears @ Philadelphia Eagles: Chicago Bears lost by 43 points
+Green Bay Packers are 0 and 1 against Philadelphia Eagles with a point differential of -14
+Chicago Bears are 0 and 1 against Philadelphia Eagles with a point differential of -43
+
+Green Bay Packers @ New York Giants: Green Bay Packers lost by 14 points
+New York Giants @ Chicago Bears: Chicago Bears won by 6 points
+Green Bay Packers are 0 and 1 against New York Giants with a point differential of -14
+Chicago Bears are 1 and 0 against New York Giants with a point differential of 6
+
+Green Bay Packers @ Dallas Cowboys: Green Bay Packers won by 1 points
+Dallas Cowboys @ Chicago Bears: Chicago Bears won by 17 points
+Green Bay Packers are 1 and 0 against Dallas Cowboys with a point differential of 1
+Chicago Bears are 1 and 0 against Dallas Cowboys with a point differential of 17
+
+Pittsburgh Steelers @ Green Bay Packers: Green Bay Packers lost by 7 points
+Chicago Bears @ Pittsburgh Steelers: Chicago Bears won by 17 points
+Green Bay Packers are 0 and 1 against Pittsburgh Steelers with a point differential of -7
+Chicago Bears are 1 and 0 against Pittsburgh Steelers with a point differential of 17
+
+Green Bay Packers are 6 and 6 against all common opponents.
+Chicago Bears are 7 and 5 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Baltimore Ravens @ Cincinnati Bengals
+
+--Records against the spread--
+
+Baltimore Ravens: total = 0.467, home = 0.625, away = 0.286
+Cincinnati Bengals: total = 0.6, home = 1, away = 0.25
+Cincinnati Bengals wins against the spread.
+
+--Records against common opponents--
+
+Baltimore Ravens @ Pittsburgh Steelers: Baltimore Ravens lost by 3 points
+Pittsburgh Steelers @ Baltimore Ravens: Baltimore Ravens won by 2 points
+Pittsburgh Steelers @ Cincinnati Bengals: Cincinnati Bengals won by 10 points
+Cincinnati Bengals @ Pittsburgh Steelers: Cincinnati Bengals lost by 10 points
+Baltimore Ravens are 1 and 1 against Pittsburgh Steelers with a point differential of -1
+Cincinnati Bengals are 1 and 1 against Pittsburgh Steelers with a point differential of 0
+
+Baltimore Ravens @ Chicago Bears: Baltimore Ravens lost by 3 points
+Cincinnati Bengals @ Chicago Bears: Cincinnati Bengals lost by 3 points
+Baltimore Ravens are 0 and 1 against Chicago Bears with a point differential of -3
+Cincinnati Bengals are 0 and 1 against Chicago Bears with a point differential of -3
+
+Minnesota Vikings @ Baltimore Ravens: Baltimore Ravens won by 3 points
+Minnesota Vikings @ Cincinnati Bengals: Cincinnati Bengals won by 28 points
+Baltimore Ravens are 1 and 0 against Minnesota Vikings with a point differential of 3
+Cincinnati Bengals are 1 and 0 against Minnesota Vikings with a point differential of 28
+
+Baltimore Ravens @ Detroit Lions: Baltimore Ravens won by 2 points
+Cincinnati Bengals @ Detroit Lions: Cincinnati Bengals won by 3 points
+Baltimore Ravens are 1 and 0 against Detroit Lions with a point differential of 2
+Cincinnati Bengals are 1 and 0 against Detroit Lions with a point differential of 3
+
+New England Patriots @ Baltimore Ravens: Baltimore Ravens lost by 34 points
+New England Patriots @ Cincinnati Bengals: Cincinnati Bengals won by 7 points
+Baltimore Ravens are 0 and 1 against New England Patriots with a point differential of -34
+Cincinnati Bengals are 1 and 0 against New England Patriots with a point differential of 7
+
+Cleveland Browns @ Baltimore Ravens: Baltimore Ravens won by 8 points
+Baltimore Ravens @ Cleveland Browns: Baltimore Ravens lost by 6 points
+Cincinnati Bengals @ Cleveland Browns: Cincinnati Bengals lost by 11 points
+Cleveland Browns @ Cincinnati Bengals: Cincinnati Bengals won by 21 points
+Baltimore Ravens are 1 and 1 against Cleveland Browns with a point differential of 2
+Cincinnati Bengals are 1 and 1 against Cleveland Browns with a point differential of 10
+
+Baltimore Ravens @ Buffalo Bills: Baltimore Ravens lost by 3 points
+Cincinnati Bengals @ Buffalo Bills: Cincinnati Bengals won by 3 points
+Baltimore Ravens are 0 and 1 against Buffalo Bills with a point differential of -3
+Cincinnati Bengals are 1 and 0 against Buffalo Bills with a point differential of 3
+
+Baltimore Ravens @ Miami Dolphins: Baltimore Ravens won by 3 points
+Cincinnati Bengals @ Miami Dolphins: Cincinnati Bengals lost by 2 points
+Baltimore Ravens are 1 and 0 against Miami Dolphins with a point differential of 3
+Cincinnati Bengals are 0 and 1 against Miami Dolphins with a point differential of -2
+
+Green Bay Packers @ Baltimore Ravens: Baltimore Ravens lost by 2 points
+Green Bay Packers @ Cincinnati Bengals: Cincinnati Bengals won by 4 points
+Baltimore Ravens are 0 and 1 against Green Bay Packers with a point differential of -2
+Cincinnati Bengals are 1 and 0 against Green Bay Packers with a point differential of 4
+
+New York Jets @ Baltimore Ravens: Baltimore Ravens won by 16 points
+New York Jets @ Cincinnati Bengals: Cincinnati Bengals won by 40 points
+Baltimore Ravens are 1 and 0 against New York Jets with a point differential of 16
+Cincinnati Bengals are 1 and 0 against New York Jets with a point differential of 40
+
+Baltimore Ravens are 6 and 6 against all common opponents.
+Cincinnati Bengals are 8 and 4 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Jacksonville Jaguars @ Indianapolis Colts
+
+--Records against the spread--
+
+Jacksonville Jaguars: total = 0.333, home = 0.125, away = 0.571
+Indianapolis Colts: total = 0.533, home = 0.571, away = 0.5
+Indianapolis Colts wins against the spread.
+
+--Records against common opponents--
+
+Jacksonville Jaguars @ Oakland Raiders: Jacksonville Jaguars lost by 10 points
+Oakland Raiders @ Indianapolis Colts: Indianapolis Colts won by 4 points
+Jacksonville Jaguars are 0 and 1 against Oakland Raiders with a point differential of -10
+Indianapolis Colts are 1 and 0 against Oakland Raiders with a point differential of 4
+
+Jacksonville Jaguars @ Seattle Seahawks: Jacksonville Jaguars lost by 28 points
+Seattle Seahawks @ Indianapolis Colts: Indianapolis Colts won by 6 points
+Jacksonville Jaguars are 0 and 1 against Seattle Seahawks with a point differential of -28
+Indianapolis Colts are 1 and 0 against Seattle Seahawks with a point differential of 6
+
+Jacksonville Jaguars @ St. Louis Rams: Jacksonville Jaguars lost by 14 points
+St. Louis Rams @ Indianapolis Colts: Indianapolis Colts lost by 30 points
+Jacksonville Jaguars are 0 and 1 against St. Louis Rams with a point differential of -14
+Indianapolis Colts are 0 and 1 against St. Louis Rams with a point differential of -30
+
+Jacksonville Jaguars @ Tennessee Titans: Jacksonville Jaguars won by 2 points
+Tennessee Titans @ Jacksonville Jaguars: Jacksonville Jaguars lost by 4 points
+Indianapolis Colts @ Tennessee Titans: Indianapolis Colts won by 3 points
+Tennessee Titans @ Indianapolis Colts: Indianapolis Colts won by 8 points
+Jacksonville Jaguars are 1 and 1 against Tennessee Titans with a point differential of -2
+Indianapolis Colts are 2 and 0 against Tennessee Titans with a point differential of 11
+
+Arizona Cardinals @ Jacksonville Jaguars: Jacksonville Jaguars lost by 13 points
+Indianapolis Colts @ Arizona Cardinals: Indianapolis Colts lost by 29 points
+Jacksonville Jaguars are 0 and 1 against Arizona Cardinals with a point differential of -13
+Indianapolis Colts are 0 and 1 against Arizona Cardinals with a point differential of -29
+
+Jacksonville Jaguars @ Houston Texans: Jacksonville Jaguars won by 7 points
+Houston Texans @ Jacksonville Jaguars: Jacksonville Jaguars won by 7 points
+Indianapolis Colts @ Houston Texans: Indianapolis Colts won by 3 points
+Houston Texans @ Indianapolis Colts: Indianapolis Colts won by 22 points
+Jacksonville Jaguars are 2 and 0 against Houston Texans with a point differential of 14
+Indianapolis Colts are 2 and 0 against Houston Texans with a point differential of 25
+
+Kansas City Chiefs @ Jacksonville Jaguars: Jacksonville Jaguars lost by 26 points
+Indianapolis Colts @ Kansas City Chiefs: Indianapolis Colts won by 16 points
+Jacksonville Jaguars are 0 and 1 against Kansas City Chiefs with a point differential of -26
+Indianapolis Colts are 1 and 0 against Kansas City Chiefs with a point differential of 16
+
+Jacksonville Jaguars @ Denver Broncos: Jacksonville Jaguars lost by 16 points
+Denver Broncos @ Indianapolis Colts: Indianapolis Colts won by 6 points
+Jacksonville Jaguars are 0 and 1 against Denver Broncos with a point differential of -16
+Indianapolis Colts are 1 and 0 against Denver Broncos with a point differential of 6
+
+San Diego Chargers @ Jacksonville Jaguars: Jacksonville Jaguars lost by 18 points
+Indianapolis Colts @ San Diego Chargers: Indianapolis Colts lost by 10 points
+Jacksonville Jaguars are 0 and 1 against San Diego Chargers with a point differential of -18
+Indianapolis Colts are 0 and 1 against San Diego Chargers with a point differential of -10
+
+San Francisco 49ers @ Jacksonville Jaguars: Jacksonville Jaguars lost by 32 points
+Indianapolis Colts @ San Francisco 49ers: Indianapolis Colts won by 20 points
+Jacksonville Jaguars are 0 and 1 against San Francisco 49ers with a point differential of -32
+Indianapolis Colts are 1 and 0 against San Francisco 49ers with a point differential of 20
+
+Jacksonville Jaguars are 3 and 9 against all common opponents.
+Indianapolis Colts are 9 and 3 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Philadelphia Eagles @ Dallas Cowboys
+
+--Records against the spread--
+
+Philadelphia Eagles: total = 0.533, home = 0.375, away = 0.714
+Dallas Cowboys: total = 0.533, home = 0.571, away = 0.5
+Philadelphia Eagles wins against the spread.
+
+--Records against common opponents--
+
+Philadelphia Eagles @ Oakland Raiders: Philadelphia Eagles won by 29 points
+Oakland Raiders @ Dallas Cowboys: Dallas Cowboys won by 7 points
+Philadelphia Eagles are 1 and 0 against Oakland Raiders with a point differential of 29
+Dallas Cowboys are 1 and 0 against Oakland Raiders with a point differential of 7
+
+Detroit Lions @ Philadelphia Eagles: Philadelphia Eagles won by 14 points
+Dallas Cowboys @ Detroit Lions: Dallas Cowboys lost by 1 points
+Philadelphia Eagles are 1 and 0 against Detroit Lions with a point differential of 14
+Dallas Cowboys are 0 and 1 against Detroit Lions with a point differential of -1
+
+Philadelphia Eagles @ Minnesota Vikings: Philadelphia Eagles lost by 18 points
+Minnesota Vikings @ Dallas Cowboys: Dallas Cowboys won by 4 points
+Philadelphia Eagles are 0 and 1 against Minnesota Vikings with a point differential of -18
+Dallas Cowboys are 1 and 0 against Minnesota Vikings with a point differential of 4
+
+Chicago Bears @ Philadelphia Eagles: Philadelphia Eagles won by 43 points
+Dallas Cowboys @ Chicago Bears: Dallas Cowboys lost by 17 points
+Philadelphia Eagles are 1 and 0 against Chicago Bears with a point differential of 43
+Dallas Cowboys are 0 and 1 against Chicago Bears with a point differential of -17
+
+Philadelphia Eagles @ Washington Redskins: Philadelphia Eagles won by 6 points
+Washington Redskins @ Philadelphia Eagles: Philadelphia Eagles won by 8 points
+Washington Redskins @ Dallas Cowboys: Dallas Cowboys won by 15 points
+Dallas Cowboys @ Washington Redskins: Dallas Cowboys won by 1 points
+Philadelphia Eagles are 2 and 0 against Washington Redskins with a point differential of 14
+Dallas Cowboys are 2 and 0 against Washington Redskins with a point differential of 16
+
+San Diego Chargers @ Philadelphia Eagles: Philadelphia Eagles lost by 3 points
+Dallas Cowboys @ San Diego Chargers: Dallas Cowboys lost by 9 points
+Philadelphia Eagles are 0 and 1 against San Diego Chargers with a point differential of -3
+Dallas Cowboys are 0 and 1 against San Diego Chargers with a point differential of -9
+
+Kansas City Chiefs @ Philadelphia Eagles: Philadelphia Eagles lost by 10 points
+Dallas Cowboys @ Kansas City Chiefs: Dallas Cowboys lost by 1 points
+Philadelphia Eagles are 0 and 1 against Kansas City Chiefs with a point differential of -10
+Dallas Cowboys are 0 and 1 against Kansas City Chiefs with a point differential of -1
+
+Philadelphia Eagles @ Denver Broncos: Philadelphia Eagles lost by 32 points
+Denver Broncos @ Dallas Cowboys: Dallas Cowboys lost by 3 points
+Philadelphia Eagles are 0 and 1 against Denver Broncos with a point differential of -32
+Dallas Cowboys are 0 and 1 against Denver Broncos with a point differential of -3
+
+Philadelphia Eagles @ New York Giants: Philadelphia Eagles won by 15 points
+New York Giants @ Philadelphia Eagles: Philadelphia Eagles lost by 8 points
+New York Giants @ Dallas Cowboys: Dallas Cowboys won by 5 points
+Dallas Cowboys @ New York Giants: Dallas Cowboys won by 3 points
+Philadelphia Eagles are 1 and 1 against New York Giants with a point differential of 7
+Dallas Cowboys are 2 and 0 against New York Giants with a point differential of 8
+
+Philadelphia Eagles @ Green Bay Packers: Philadelphia Eagles won by 14 points
+Green Bay Packers @ Dallas Cowboys: Dallas Cowboys lost by 1 points
+Philadelphia Eagles are 1 and 0 against Green Bay Packers with a point differential of 14
+Dallas Cowboys are 0 and 1 against Green Bay Packers with a point differential of -1
+
+Philadelphia Eagles are 7 and 5 against all common opponents.
+Dallas Cowboys are 6 and 6 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+New York Jets @ Miami Dolphins
+
+--Records against the spread--
+
+New York Jets: total = 0.533, home = 0.75, away = 0.286
+Miami Dolphins: total = 0.6, home = 0.714, away = 0.5
+Miami Dolphins wins against the spread.
+
+--Records against common opponents--
+
+Tampa Bay Buccaneers @ New York Jets: New York Jets won by 1 points
+Miami Dolphins @ Tampa Bay Buccaneers: Miami Dolphins lost by 3 points
+New York Jets are 1 and 0 against Tampa Bay Buccaneers with a point differential of 1
+Miami Dolphins are 0 and 1 against Tampa Bay Buccaneers with a point differential of -3
+
+Buffalo Bills @ New York Jets: New York Jets won by 7 points
+New York Jets @ Buffalo Bills: New York Jets lost by 23 points
+Buffalo Bills @ Miami Dolphins: Miami Dolphins lost by 2 points
+Miami Dolphins @ Buffalo Bills: Miami Dolphins lost by 19 points
+New York Jets are 1 and 1 against Buffalo Bills with a point differential of -16
+Miami Dolphins are 0 and 2 against Buffalo Bills with a point differential of -21
+
+New York Jets @ Atlanta Falcons: New York Jets won by 2 points
+Atlanta Falcons @ Miami Dolphins: Miami Dolphins won by 4 points
+New York Jets are 1 and 0 against Atlanta Falcons with a point differential of 2
+Miami Dolphins are 1 and 0 against Atlanta Falcons with a point differential of 4
+
+Pittsburgh Steelers @ New York Jets: New York Jets lost by 13 points
+Miami Dolphins @ Pittsburgh Steelers: Miami Dolphins won by 6 points
+New York Jets are 0 and 1 against Pittsburgh Steelers with a point differential of -13
+Miami Dolphins are 1 and 0 against Pittsburgh Steelers with a point differential of 6
+
+Cleveland Browns @ New York Jets: New York Jets won by 11 points
+Miami Dolphins @ Cleveland Browns: Miami Dolphins won by 13 points
+New York Jets are 1 and 0 against Cleveland Browns with a point differential of 11
+Miami Dolphins are 1 and 0 against Cleveland Browns with a point differential of 13
+
+New York Jets @ New England Patriots: New York Jets lost by 3 points
+New England Patriots @ New York Jets: New York Jets won by 3 points
+Miami Dolphins @ New England Patriots: Miami Dolphins lost by 10 points
+New England Patriots @ Miami Dolphins: Miami Dolphins won by 4 points
+New York Jets are 1 and 1 against New England Patriots with a point differential of 0
+Miami Dolphins are 1 and 1 against New England Patriots with a point differential of -6
+
+New York Jets @ Cincinnati Bengals: New York Jets lost by 40 points
+Cincinnati Bengals @ Miami Dolphins: Miami Dolphins won by 2 points
+New York Jets are 0 and 1 against Cincinnati Bengals with a point differential of -40
+Miami Dolphins are 1 and 0 against Cincinnati Bengals with a point differential of 2
+
+New Orleans Saints @ New York Jets: New York Jets won by 6 points
+Miami Dolphins @ New Orleans Saints: Miami Dolphins lost by 21 points
+New York Jets are 1 and 0 against New Orleans Saints with a point differential of 6
+Miami Dolphins are 0 and 1 against New Orleans Saints with a point differential of -21
+
+New York Jets @ Baltimore Ravens: New York Jets lost by 16 points
+Baltimore Ravens @ Miami Dolphins: Miami Dolphins lost by 3 points
+New York Jets are 0 and 1 against Baltimore Ravens with a point differential of -16
+Miami Dolphins are 0 and 1 against Baltimore Ravens with a point differential of -3
+
+New York Jets @ Carolina Panthers: New York Jets lost by 10 points
+Carolina Panthers @ Miami Dolphins: Miami Dolphins lost by 4 points
+New York Jets are 0 and 1 against Carolina Panthers with a point differential of -10
+Miami Dolphins are 0 and 1 against Carolina Panthers with a point differential of -4
+
+New York Jets are 6 and 6 against all common opponents.
+Miami Dolphins are 5 and 7 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Detroit Lions @ Minnesota Vikings
+
+--Records against the spread--
+
+Detroit Lions: total = 0.4, home = 0.375, away = 0.429
+Minnesota Vikings: total = 0.533, home = 0.571, away = 0.5
+Minnesota Vikings wins against the spread.
+
+--Records against common opponents--
+
+Chicago Bears @ Detroit Lions: Detroit Lions won by 8 points
+Detroit Lions @ Chicago Bears: Detroit Lions won by 2 points
+Minnesota Vikings @ Chicago Bears: Minnesota Vikings lost by 1 points
+Chicago Bears @ Minnesota Vikings: Minnesota Vikings won by 3 points
+Detroit Lions are 2 and 0 against Chicago Bears with a point differential of 10
+Minnesota Vikings are 1 and 1 against Chicago Bears with a point differential of 2
+
+Detroit Lions @ Green Bay Packers: Detroit Lions lost by 13 points
+Green Bay Packers @ Detroit Lions: Detroit Lions won by 30 points
+Green Bay Packers @ Minnesota Vikings: Minnesota Vikings lost by 13 points
+Minnesota Vikings @ Green Bay Packers: Minnesota Vikings won by 0 points
+Detroit Lions are 1 and 1 against Green Bay Packers with a point differential of 17
+Minnesota Vikings are 1 and 1 against Green Bay Packers with a point differential of -13
+
+Dallas Cowboys @ Detroit Lions: Detroit Lions won by 1 points
+Minnesota Vikings @ Dallas Cowboys: Minnesota Vikings lost by 4 points
+Detroit Lions are 1 and 0 against Dallas Cowboys with a point differential of 1
+Minnesota Vikings are 0 and 1 against Dallas Cowboys with a point differential of -4
+
+New York Giants @ Detroit Lions: Detroit Lions lost by 3 points
+Minnesota Vikings @ New York Giants: Minnesota Vikings lost by 16 points
+Detroit Lions are 0 and 1 against New York Giants with a point differential of -3
+Minnesota Vikings are 0 and 1 against New York Giants with a point differential of -16
+
+Detroit Lions @ Washington Redskins: Detroit Lions won by 7 points
+Washington Redskins @ Minnesota Vikings: Minnesota Vikings won by 7 points
+Detroit Lions are 1 and 0 against Washington Redskins with a point differential of 7
+Minnesota Vikings are 1 and 0 against Washington Redskins with a point differential of 7
+
+Detroit Lions @ Cleveland Browns: Detroit Lions won by 14 points
+Cleveland Browns @ Minnesota Vikings: Minnesota Vikings lost by 4 points
+Detroit Lions are 1 and 0 against Cleveland Browns with a point differential of 14
+Minnesota Vikings are 0 and 1 against Cleveland Browns with a point differential of -4
+
+Cincinnati Bengals @ Detroit Lions: Detroit Lions lost by 3 points
+Minnesota Vikings @ Cincinnati Bengals: Minnesota Vikings lost by 28 points
+Detroit Lions are 0 and 1 against Cincinnati Bengals with a point differential of -3
+Minnesota Vikings are 0 and 1 against Cincinnati Bengals with a point differential of -28
+
+Detroit Lions @ Pittsburgh Steelers: Detroit Lions lost by 10 points
+Pittsburgh Steelers @ Minnesota Vikings: Minnesota Vikings won by 7 points
+Detroit Lions are 0 and 1 against Pittsburgh Steelers with a point differential of -10
+Minnesota Vikings are 1 and 0 against Pittsburgh Steelers with a point differential of 7
+
+Detroit Lions @ Philadelphia Eagles: Detroit Lions lost by 14 points
+Philadelphia Eagles @ Minnesota Vikings: Minnesota Vikings won by 18 points
+Detroit Lions are 0 and 1 against Philadelphia Eagles with a point differential of -14
+Minnesota Vikings are 1 and 0 against Philadelphia Eagles with a point differential of 18
+
+Baltimore Ravens @ Detroit Lions: Detroit Lions lost by 2 points
+Minnesota Vikings @ Baltimore Ravens: Minnesota Vikings lost by 3 points
+Detroit Lions are 0 and 1 against Baltimore Ravens with a point differential of -2
+Minnesota Vikings are 0 and 1 against Baltimore Ravens with a point differential of -3
+
+Detroit Lions are 6 and 6 against all common opponents.
+Minnesota Vikings are 5 and 7 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Tampa Bay Buccaneers @ New Orleans Saints
+
+--Records against the spread--
+
+Tampa Bay Buccaneers: total = 0.4, home = 0.5, away = 0.286
+New Orleans Saints: total = 0.467, home = 0.857, away = 0.125
+New Orleans Saints wins against the spread.
+
+--Records against common opponents--
+
+Tampa Bay Buccaneers @ New England Patriots: Tampa Bay Buccaneers lost by 20 points
+New Orleans Saints @ New England Patriots: New Orleans Saints lost by 3 points
+Tampa Bay Buccaneers are 0 and 1 against New England Patriots with a point differential of -20
+New Orleans Saints are 0 and 1 against New England Patriots with a point differential of -3
+
+Tampa Bay Buccaneers @ Atlanta Falcons: Tampa Bay Buccaneers lost by 8 points
+Atlanta Falcons @ Tampa Bay Buccaneers: Tampa Bay Buccaneers won by 13 points
+Atlanta Falcons @ New Orleans Saints: New Orleans Saints won by 6 points
+New Orleans Saints @ Atlanta Falcons: New Orleans Saints won by 4 points
+Tampa Bay Buccaneers are 1 and 1 against Atlanta Falcons with a point differential of 5
+New Orleans Saints are 2 and 0 against Atlanta Falcons with a point differential of 10
+
+Tampa Bay Buccaneers @ Seattle Seahawks: Tampa Bay Buccaneers lost by 3 points
+New Orleans Saints @ Seattle Seahawks: New Orleans Saints lost by 27 points
+Tampa Bay Buccaneers are 0 and 1 against Seattle Seahawks with a point differential of -3
+New Orleans Saints are 0 and 1 against Seattle Seahawks with a point differential of -27
+
+Buffalo Bills @ Tampa Bay Buccaneers: Tampa Bay Buccaneers won by 21 points
+Buffalo Bills @ New Orleans Saints: New Orleans Saints won by 18 points
+Tampa Bay Buccaneers are 1 and 0 against Buffalo Bills with a point differential of 21
+New Orleans Saints are 1 and 0 against Buffalo Bills with a point differential of 18
+
+San Francisco 49ers @ Tampa Bay Buccaneers: Tampa Bay Buccaneers lost by 19 points
+San Francisco 49ers @ New Orleans Saints: New Orleans Saints won by 3 points
+Tampa Bay Buccaneers are 0 and 1 against San Francisco 49ers with a point differential of -19
+New Orleans Saints are 1 and 0 against San Francisco 49ers with a point differential of 3
+
+Tampa Bay Buccaneers @ New York Jets: Tampa Bay Buccaneers lost by 1 points
+New Orleans Saints @ New York Jets: New Orleans Saints lost by 6 points
+Tampa Bay Buccaneers are 0 and 1 against New York Jets with a point differential of -1
+New Orleans Saints are 0 and 1 against New York Jets with a point differential of -6
+
+Arizona Cardinals @ Tampa Bay Buccaneers: Tampa Bay Buccaneers lost by 3 points
+Arizona Cardinals @ New Orleans Saints: New Orleans Saints won by 24 points
+Tampa Bay Buccaneers are 0 and 1 against Arizona Cardinals with a point differential of -3
+New Orleans Saints are 1 and 0 against Arizona Cardinals with a point differential of 24
+
+Carolina Panthers @ Tampa Bay Buccaneers: Tampa Bay Buccaneers lost by 18 points
+Tampa Bay Buccaneers @ Carolina Panthers: Tampa Bay Buccaneers lost by 21 points
+Carolina Panthers @ New Orleans Saints: New Orleans Saints won by 18 points
+New Orleans Saints @ Carolina Panthers: New Orleans Saints lost by 4 points
+Tampa Bay Buccaneers are 0 and 2 against Carolina Panthers with a point differential of -39
+New Orleans Saints are 1 and 1 against Carolina Panthers with a point differential of 14
+
+Miami Dolphins @ Tampa Bay Buccaneers: Tampa Bay Buccaneers won by 3 points
+Miami Dolphins @ New Orleans Saints: New Orleans Saints won by 21 points
+Tampa Bay Buccaneers are 1 and 0 against Miami Dolphins with a point differential of 3
+New Orleans Saints are 1 and 0 against Miami Dolphins with a point differential of 21
+
+Tampa Bay Buccaneers @ St. Louis Rams: Tampa Bay Buccaneers lost by 10 points
+New Orleans Saints @ St. Louis Rams: New Orleans Saints lost by 11 points
+Tampa Bay Buccaneers are 0 and 1 against St. Louis Rams with a point differential of -10
+New Orleans Saints are 0 and 1 against St. Louis Rams with a point differential of -11
+
+Tampa Bay Buccaneers are 3 and 9 against all common opponents.
+New Orleans Saints are 7 and 5 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Buffalo Bills @ New England Patriots
+
+--Records against the spread--
+
+Buffalo Bills: total = 0.533, home = 0.75, away = 0.286
+New England Patriots: total = 0.467, home = 0.714, away = 0.25
+New England Patriots wins against the spread.
+
+--Records against common opponents--
+
+Baltimore Ravens @ Buffalo Bills: Buffalo Bills won by 3 points
+New England Patriots @ Baltimore Ravens: New England Patriots won by 34 points
+Buffalo Bills are 1 and 0 against Baltimore Ravens with a point differential of 3
+New England Patriots are 1 and 0 against Baltimore Ravens with a point differential of 34
+
+Buffalo Bills @ Pittsburgh Steelers: Buffalo Bills lost by 13 points
+Pittsburgh Steelers @ New England Patriots: New England Patriots won by 24 points
+Buffalo Bills are 0 and 1 against Pittsburgh Steelers with a point differential of -13
+New England Patriots are 1 and 0 against Pittsburgh Steelers with a point differential of 24
+
+Carolina Panthers @ Buffalo Bills: Buffalo Bills won by 1 points
+New England Patriots @ Carolina Panthers: New England Patriots lost by 4 points
+Buffalo Bills are 1 and 0 against Carolina Panthers with a point differential of 1
+New England Patriots are 0 and 1 against Carolina Panthers with a point differential of -4
+
+Buffalo Bills @ New York Jets: Buffalo Bills lost by 7 points
+New York Jets @ Buffalo Bills: Buffalo Bills won by 23 points
+New York Jets @ New England Patriots: New England Patriots won by 3 points
+New England Patriots @ New York Jets: New England Patriots lost by 3 points
+Buffalo Bills are 1 and 1 against New York Jets with a point differential of 16
+New England Patriots are 1 and 1 against New York Jets with a point differential of 0
+
+Buffalo Bills @ Cleveland Browns: Buffalo Bills lost by 13 points
+Cleveland Browns @ New England Patriots: New England Patriots won by 1 points
+Buffalo Bills are 0 and 1 against Cleveland Browns with a point differential of -13
+New England Patriots are 1 and 0 against Cleveland Browns with a point differential of 1
+
+Cincinnati Bengals @ Buffalo Bills: Buffalo Bills lost by 3 points
+New England Patriots @ Cincinnati Bengals: New England Patriots lost by 7 points
+Buffalo Bills are 0 and 1 against Cincinnati Bengals with a point differential of -3
+New England Patriots are 0 and 1 against Cincinnati Bengals with a point differential of -7
+
+Buffalo Bills @ Miami Dolphins: Buffalo Bills won by 2 points
+Miami Dolphins @ Buffalo Bills: Buffalo Bills won by 19 points
+Miami Dolphins @ New England Patriots: New England Patriots won by 10 points
+New England Patriots @ Miami Dolphins: New England Patriots lost by 4 points
+Buffalo Bills are 2 and 0 against Miami Dolphins with a point differential of 21
+New England Patriots are 1 and 1 against Miami Dolphins with a point differential of 6
+
+Buffalo Bills @ New Orleans Saints: Buffalo Bills lost by 18 points
+New Orleans Saints @ New England Patriots: New England Patriots won by 3 points
+Buffalo Bills are 0 and 1 against New Orleans Saints with a point differential of -18
+New England Patriots are 1 and 0 against New Orleans Saints with a point differential of 3
+
+Atlanta Falcons @ Buffalo Bills: Buffalo Bills lost by 3 points
+New England Patriots @ Atlanta Falcons: New England Patriots won by 7 points
+Buffalo Bills are 0 and 1 against Atlanta Falcons with a point differential of -3
+New England Patriots are 1 and 0 against Atlanta Falcons with a point differential of 7
+
+Buffalo Bills @ Tampa Bay Buccaneers: Buffalo Bills lost by 21 points
+Tampa Bay Buccaneers @ New England Patriots: New England Patriots won by 20 points
+Buffalo Bills are 0 and 1 against Tampa Bay Buccaneers with a point differential of -21
+New England Patriots are 1 and 0 against Tampa Bay Buccaneers with a point differential of 20
+
+Buffalo Bills are 5 and 7 against all common opponents.
+New England Patriots are 8 and 4 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Washington Redskins @ New York Giants
+
+--Records against the spread--
+
+Washington Redskins: total = 0.333, home = 0.375, away = 0.286
+New York Giants: total = 0.4, home = 0.286, away = 0.5
+New York Giants wins against the spread.
+
+--Records against common opponents--
+
+Detroit Lions @ Washington Redskins: Washington Redskins lost by 7 points
+New York Giants @ Detroit Lions: New York Giants won by 3 points
+Washington Redskins are 0 and 1 against Detroit Lions with a point differential of -7
+New York Giants are 1 and 0 against Detroit Lions with a point differential of 3
+
+Chicago Bears @ Washington Redskins: Washington Redskins won by 4 points
+New York Giants @ Chicago Bears: New York Giants lost by 6 points
+Washington Redskins are 1 and 0 against Chicago Bears with a point differential of 4
+New York Giants are 0 and 1 against Chicago Bears with a point differential of -6
+
+Washington Redskins @ Denver Broncos: Washington Redskins lost by 24 points
+Denver Broncos @ New York Giants: New York Giants lost by 18 points
+Washington Redskins are 0 and 1 against Denver Broncos with a point differential of -24
+New York Giants are 0 and 1 against Denver Broncos with a point differential of -18
+
+San Diego Chargers @ Washington Redskins: Washington Redskins won by 6 points
+New York Giants @ San Diego Chargers: New York Giants lost by 23 points
+Washington Redskins are 1 and 0 against San Diego Chargers with a point differential of 6
+New York Giants are 0 and 1 against San Diego Chargers with a point differential of -23
+
+Kansas City Chiefs @ Washington Redskins: Washington Redskins lost by 35 points
+New York Giants @ Kansas City Chiefs: New York Giants lost by 24 points
+Washington Redskins are 0 and 1 against Kansas City Chiefs with a point differential of -35
+New York Giants are 0 and 1 against Kansas City Chiefs with a point differential of -24
+
+Philadelphia Eagles @ Washington Redskins: Washington Redskins lost by 6 points
+Washington Redskins @ Philadelphia Eagles: Washington Redskins lost by 8 points
+Philadelphia Eagles @ New York Giants: New York Giants lost by 15 points
+New York Giants @ Philadelphia Eagles: New York Giants won by 8 points
+Washington Redskins are 0 and 2 against Philadelphia Eagles with a point differential of -14
+New York Giants are 1 and 1 against Philadelphia Eagles with a point differential of -7
+
+Washington Redskins @ Green Bay Packers: Washington Redskins lost by 18 points
+Green Bay Packers @ New York Giants: New York Giants won by 14 points
+Washington Redskins are 0 and 1 against Green Bay Packers with a point differential of -18
+New York Giants are 1 and 0 against Green Bay Packers with a point differential of 14
+
+Washington Redskins @ Oakland Raiders: Washington Redskins won by 10 points
+Oakland Raiders @ New York Giants: New York Giants won by 4 points
+Washington Redskins are 1 and 0 against Oakland Raiders with a point differential of 10
+New York Giants are 1 and 0 against Oakland Raiders with a point differential of 4
+
+Washington Redskins @ Dallas Cowboys: Washington Redskins lost by 15 points
+Dallas Cowboys @ Washington Redskins: Washington Redskins lost by 1 points
+New York Giants @ Dallas Cowboys: New York Giants lost by 5 points
+Dallas Cowboys @ New York Giants: New York Giants lost by 3 points
+Washington Redskins are 0 and 2 against Dallas Cowboys with a point differential of -16
+New York Giants are 0 and 2 against Dallas Cowboys with a point differential of -8
+
+Washington Redskins @ Minnesota Vikings: Washington Redskins lost by 7 points
+Minnesota Vikings @ New York Giants: New York Giants won by 16 points
+Washington Redskins are 0 and 1 against Minnesota Vikings with a point differential of -7
+New York Giants are 1 and 0 against Minnesota Vikings with a point differential of 16
+
+Washington Redskins are 3 and 9 against all common opponents.
+New York Giants are 5 and 7 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Houston Texans @ Tennessee Titans
+
+--Records against the spread--
+
+Houston Texans: total = 0.2, home = 0.125, away = 0.286
+Tennessee Titans: total = 0.4, home = 0.143, away = 0.625
+Houston Texans wins against the spread.
+
+--Records against common opponents--
+
+Houston Texans @ San Diego Chargers: Houston Texans won by 3 points
+San Diego Chargers @ Tennessee Titans: Tennessee Titans won by 3 points
+Houston Texans are 1 and 0 against San Diego Chargers with a point differential of 3
+Tennessee Titans are 1 and 0 against San Diego Chargers with a point differential of 3
+
+Houston Texans @ San Francisco 49ers: Houston Texans lost by 31 points
+San Francisco 49ers @ Tennessee Titans: Tennessee Titans lost by 14 points
+Houston Texans are 0 and 1 against San Francisco 49ers with a point differential of -31
+Tennessee Titans are 0 and 1 against San Francisco 49ers with a point differential of -14
+
+Indianapolis Colts @ Houston Texans: Houston Texans lost by 3 points
+Houston Texans @ Indianapolis Colts: Houston Texans lost by 22 points
+Indianapolis Colts @ Tennessee Titans: Tennessee Titans lost by 3 points
+Tennessee Titans @ Indianapolis Colts: Tennessee Titans lost by 8 points
+Houston Texans are 0 and 2 against Indianapolis Colts with a point differential of -25
+Tennessee Titans are 0 and 2 against Indianapolis Colts with a point differential of -11
+
+Houston Texans @ Arizona Cardinals: Houston Texans lost by 3 points
+Arizona Cardinals @ Tennessee Titans: Tennessee Titans lost by 3 points
+Houston Texans are 0 and 1 against Arizona Cardinals with a point differential of -3
+Tennessee Titans are 0 and 1 against Arizona Cardinals with a point differential of -3
+
+Oakland Raiders @ Houston Texans: Houston Texans lost by 5 points
+Tennessee Titans @ Oakland Raiders: Tennessee Titans won by 4 points
+Houston Texans are 0 and 1 against Oakland Raiders with a point differential of -5
+Tennessee Titans are 1 and 0 against Oakland Raiders with a point differential of 4
+
+Jacksonville Jaguars @ Houston Texans: Houston Texans lost by 7 points
+Houston Texans @ Jacksonville Jaguars: Houston Texans lost by 7 points
+Jacksonville Jaguars @ Tennessee Titans: Tennessee Titans lost by 2 points
+Tennessee Titans @ Jacksonville Jaguars: Tennessee Titans won by 4 points
+Houston Texans are 0 and 2 against Jacksonville Jaguars with a point differential of -14
+Tennessee Titans are 1 and 1 against Jacksonville Jaguars with a point differential of 2
+
+Seattle Seahawks @ Houston Texans: Houston Texans lost by 3 points
+Tennessee Titans @ Seattle Seahawks: Tennessee Titans lost by 7 points
+Houston Texans are 0 and 1 against Seattle Seahawks with a point differential of -3
+Tennessee Titans are 0 and 1 against Seattle Seahawks with a point differential of -7
+
+St. Louis Rams @ Houston Texans: Houston Texans lost by 25 points
+Tennessee Titans @ St. Louis Rams: Tennessee Titans won by 7 points
+Houston Texans are 0 and 1 against St. Louis Rams with a point differential of -25
+Tennessee Titans are 1 and 0 against St. Louis Rams with a point differential of 7
+
+Houston Texans @ Kansas City Chiefs: Houston Texans lost by 1 points
+Kansas City Chiefs @ Tennessee Titans: Tennessee Titans lost by 9 points
+Houston Texans are 0 and 1 against Kansas City Chiefs with a point differential of -1
+Tennessee Titans are 0 and 1 against Kansas City Chiefs with a point differential of -9
+
+Denver Broncos @ Houston Texans: Houston Texans lost by 24 points
+Tennessee Titans @ Denver Broncos: Tennessee Titans lost by 23 points
+Houston Texans are 0 and 1 against Denver Broncos with a point differential of -24
+Tennessee Titans are 0 and 1 against Denver Broncos with a point differential of -23
+
+Houston Texans are 1 and 11 against all common opponents.
+Tennessee Titans are 4 and 8 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Cleveland Browns @ Pittsburgh Steelers
+
+--Records against the spread--
+
+Cleveland Browns: total = 0.4, home = 0.375, away = 0.429
+Pittsburgh Steelers: total = 0.533, home = 0.571, away = 0.5
+Pittsburgh Steelers wins against the spread.
+
+--Records against common opponents--
+
+Cincinnati Bengals @ Cleveland Browns: Cleveland Browns won by 11 points
+Cleveland Browns @ Cincinnati Bengals: Cleveland Browns lost by 21 points
+Pittsburgh Steelers @ Cincinnati Bengals: Pittsburgh Steelers lost by 10 points
+Cincinnati Bengals @ Pittsburgh Steelers: Pittsburgh Steelers won by 10 points
+Cleveland Browns are 1 and 1 against Cincinnati Bengals with a point differential of -10
+Pittsburgh Steelers are 1 and 1 against Cincinnati Bengals with a point differential of 0
+
+Buffalo Bills @ Cleveland Browns: Cleveland Browns won by 13 points
+Buffalo Bills @ Pittsburgh Steelers: Pittsburgh Steelers won by 13 points
+Cleveland Browns are 1 and 0 against Buffalo Bills with a point differential of 13
+Pittsburgh Steelers are 1 and 0 against Buffalo Bills with a point differential of 13
+
+Cleveland Browns @ Green Bay Packers: Cleveland Browns lost by 18 points
+Pittsburgh Steelers @ Green Bay Packers: Pittsburgh Steelers won by 7 points
+Cleveland Browns are 0 and 1 against Green Bay Packers with a point differential of -18
+Pittsburgh Steelers are 1 and 0 against Green Bay Packers with a point differential of 7
+
+Cleveland Browns @ New England Patriots: Cleveland Browns lost by 1 points
+Pittsburgh Steelers @ New England Patriots: Pittsburgh Steelers lost by 24 points
+Cleveland Browns are 0 and 1 against New England Patriots with a point differential of -1
+Pittsburgh Steelers are 0 and 1 against New England Patriots with a point differential of -24
+
+Cleveland Browns @ New York Jets: Cleveland Browns lost by 11 points
+Pittsburgh Steelers @ New York Jets: Pittsburgh Steelers won by 13 points
+Cleveland Browns are 0 and 1 against New York Jets with a point differential of -11
+Pittsburgh Steelers are 1 and 0 against New York Jets with a point differential of 13
+
+Miami Dolphins @ Cleveland Browns: Cleveland Browns lost by 13 points
+Miami Dolphins @ Pittsburgh Steelers: Pittsburgh Steelers lost by 6 points
+Cleveland Browns are 0 and 1 against Miami Dolphins with a point differential of -13
+Pittsburgh Steelers are 0 and 1 against Miami Dolphins with a point differential of -6
+
+Cleveland Browns @ Baltimore Ravens: Cleveland Browns lost by 8 points
+Baltimore Ravens @ Cleveland Browns: Cleveland Browns won by 6 points
+Baltimore Ravens @ Pittsburgh Steelers: Pittsburgh Steelers won by 3 points
+Pittsburgh Steelers @ Baltimore Ravens: Pittsburgh Steelers lost by 2 points
+Cleveland Browns are 1 and 1 against Baltimore Ravens with a point differential of -2
+Pittsburgh Steelers are 1 and 1 against Baltimore Ravens with a point differential of 1
+
+Cleveland Browns @ Minnesota Vikings: Cleveland Browns won by 4 points
+Pittsburgh Steelers @ Minnesota Vikings: Pittsburgh Steelers lost by 7 points
+Cleveland Browns are 1 and 0 against Minnesota Vikings with a point differential of 4
+Pittsburgh Steelers are 0 and 1 against Minnesota Vikings with a point differential of -7
+
+Detroit Lions @ Cleveland Browns: Cleveland Browns lost by 14 points
+Detroit Lions @ Pittsburgh Steelers: Pittsburgh Steelers won by 10 points
+Cleveland Browns are 0 and 1 against Detroit Lions with a point differential of -14
+Pittsburgh Steelers are 1 and 0 against Detroit Lions with a point differential of 10
+
+Chicago Bears @ Cleveland Browns: Cleveland Browns lost by 7 points
+Chicago Bears @ Pittsburgh Steelers: Pittsburgh Steelers lost by 17 points
+Cleveland Browns are 0 and 1 against Chicago Bears with a point differential of -7
+Pittsburgh Steelers are 0 and 1 against Chicago Bears with a point differential of -17
+
+Cleveland Browns are 4 and 8 against all common opponents.
+Pittsburgh Steelers are 6 and 6 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+San Francisco 49ers @ Arizona Cardinals
+
+--Records against the spread--
+
+San Francisco 49ers: total = 0.6, home = 0.5, away = 0.714
+Arizona Cardinals: total = 0.667, home = 0.714, away = 0.625
+Arizona Cardinals wins against the spread.
+
+--Records against common opponents--
+
+San Francisco 49ers @ Seattle Seahawks: San Francisco 49ers lost by 26 points
+Seattle Seahawks @ San Francisco 49ers: San Francisco 49ers won by 2 points
+Seattle Seahawks @ Arizona Cardinals: Arizona Cardinals lost by 12 points
+Arizona Cardinals @ Seattle Seahawks: Arizona Cardinals won by 7 points
+San Francisco 49ers are 1 and 1 against Seattle Seahawks with a point differential of -24
+Arizona Cardinals are 1 and 1 against Seattle Seahawks with a point differential of -5
+
+Houston Texans @ San Francisco 49ers: San Francisco 49ers won by 31 points
+Houston Texans @ Arizona Cardinals: Arizona Cardinals won by 3 points
+San Francisco 49ers are 1 and 0 against Houston Texans with a point differential of 31
+Arizona Cardinals are 1 and 0 against Houston Texans with a point differential of 3
+
+San Francisco 49ers @ Tennessee Titans: San Francisco 49ers won by 14 points
+Arizona Cardinals @ Tennessee Titans: Arizona Cardinals won by 3 points
+San Francisco 49ers are 1 and 0 against Tennessee Titans with a point differential of 14
+Arizona Cardinals are 1 and 0 against Tennessee Titans with a point differential of 3
+
+San Francisco 49ers @ Jacksonville Jaguars: San Francisco 49ers won by 32 points
+Arizona Cardinals @ Jacksonville Jaguars: Arizona Cardinals won by 13 points
+San Francisco 49ers are 1 and 0 against Jacksonville Jaguars with a point differential of 32
+Arizona Cardinals are 1 and 0 against Jacksonville Jaguars with a point differential of 13
+
+Carolina Panthers @ San Francisco 49ers: San Francisco 49ers lost by 1 points
+Carolina Panthers @ Arizona Cardinals: Arizona Cardinals won by 16 points
+San Francisco 49ers are 0 and 1 against Carolina Panthers with a point differential of -1
+Arizona Cardinals are 1 and 0 against Carolina Panthers with a point differential of 16
+
+Indianapolis Colts @ San Francisco 49ers: San Francisco 49ers lost by 20 points
+Indianapolis Colts @ Arizona Cardinals: Arizona Cardinals won by 29 points
+San Francisco 49ers are 0 and 1 against Indianapolis Colts with a point differential of -20
+Arizona Cardinals are 1 and 0 against Indianapolis Colts with a point differential of 29
+
+San Francisco 49ers @ St. Louis Rams: San Francisco 49ers won by 24 points
+St. Louis Rams @ San Francisco 49ers: San Francisco 49ers won by 10 points
+Arizona Cardinals @ St. Louis Rams: Arizona Cardinals lost by 3 points
+St. Louis Rams @ Arizona Cardinals: Arizona Cardinals won by 20 points
+San Francisco 49ers are 2 and 0 against St. Louis Rams with a point differential of 34
+Arizona Cardinals are 1 and 1 against St. Louis Rams with a point differential of 17
+
+San Francisco 49ers @ New Orleans Saints: San Francisco 49ers lost by 3 points
+Arizona Cardinals @ New Orleans Saints: Arizona Cardinals lost by 24 points
+San Francisco 49ers are 0 and 1 against New Orleans Saints with a point differential of -3
+Arizona Cardinals are 0 and 1 against New Orleans Saints with a point differential of -24
+
+San Francisco 49ers @ Tampa Bay Buccaneers: San Francisco 49ers won by 19 points
+Arizona Cardinals @ Tampa Bay Buccaneers: Arizona Cardinals won by 3 points
+San Francisco 49ers are 1 and 0 against Tampa Bay Buccaneers with a point differential of 19
+Arizona Cardinals are 1 and 0 against Tampa Bay Buccaneers with a point differential of 3
+
+Atlanta Falcons @ San Francisco 49ers: San Francisco 49ers won by 10 points
+Atlanta Falcons @ Arizona Cardinals: Arizona Cardinals won by 14 points
+San Francisco 49ers are 1 and 0 against Atlanta Falcons with a point differential of 10
+Arizona Cardinals are 1 and 0 against Atlanta Falcons with a point differential of 14
+
+San Francisco 49ers are 8 and 4 against all common opponents.
+Arizona Cardinals are 9 and 3 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Denver Broncos @ Oakland Raiders
+
+--Records against the spread--
+
+Denver Broncos: total = 0.6, home = 0.625, away = 0.571
+Oakland Raiders: total = 0.533, home = 0.429, away = 0.625
+Denver Broncos wins against the spread.
+
+--Records against common opponents--
+
+Denver Broncos @ New York Giants: Denver Broncos won by 18 points
+Oakland Raiders @ New York Giants: Oakland Raiders lost by 4 points
+Denver Broncos are 1 and 0 against New York Giants with a point differential of 18
+Oakland Raiders are 0 and 1 against New York Giants with a point differential of -4
+
+Philadelphia Eagles @ Denver Broncos: Denver Broncos won by 32 points
+Philadelphia Eagles @ Oakland Raiders: Oakland Raiders lost by 29 points
+Denver Broncos are 1 and 0 against Philadelphia Eagles with a point differential of 32
+Oakland Raiders are 0 and 1 against Philadelphia Eagles with a point differential of -29
+
+Denver Broncos @ Dallas Cowboys: Denver Broncos won by 3 points
+Oakland Raiders @ Dallas Cowboys: Oakland Raiders lost by 7 points
+Denver Broncos are 1 and 0 against Dallas Cowboys with a point differential of 3
+Oakland Raiders are 0 and 1 against Dallas Cowboys with a point differential of -7
+
+Denver Broncos @ Indianapolis Colts: Denver Broncos lost by 6 points
+Oakland Raiders @ Indianapolis Colts: Oakland Raiders lost by 4 points
+Denver Broncos are 0 and 1 against Indianapolis Colts with a point differential of -6
+Oakland Raiders are 0 and 1 against Indianapolis Colts with a point differential of -4
+
+Washington Redskins @ Denver Broncos: Denver Broncos won by 24 points
+Washington Redskins @ Oakland Raiders: Oakland Raiders lost by 10 points
+Denver Broncos are 1 and 0 against Washington Redskins with a point differential of 24
+Oakland Raiders are 0 and 1 against Washington Redskins with a point differential of -10
+
+Denver Broncos @ San Diego Chargers: Denver Broncos won by 8 points
+San Diego Chargers @ Denver Broncos: Denver Broncos lost by 7 points
+San Diego Chargers @ Oakland Raiders: Oakland Raiders won by 10 points
+Oakland Raiders @ San Diego Chargers: Oakland Raiders lost by 13 points
+Denver Broncos are 1 and 1 against San Diego Chargers with a point differential of 1
+Oakland Raiders are 1 and 1 against San Diego Chargers with a point differential of -3
+
+Tennessee Titans @ Denver Broncos: Denver Broncos won by 23 points
+Tennessee Titans @ Oakland Raiders: Oakland Raiders lost by 4 points
+Denver Broncos are 1 and 0 against Tennessee Titans with a point differential of 23
+Oakland Raiders are 0 and 1 against Tennessee Titans with a point differential of -4
+
+Denver Broncos @ Houston Texans: Denver Broncos won by 24 points
+Oakland Raiders @ Houston Texans: Oakland Raiders won by 5 points
+Denver Broncos are 1 and 0 against Houston Texans with a point differential of 24
+Oakland Raiders are 1 and 0 against Houston Texans with a point differential of 5
+
+Jacksonville Jaguars @ Denver Broncos: Denver Broncos won by 16 points
+Jacksonville Jaguars @ Oakland Raiders: Oakland Raiders won by 10 points
+Denver Broncos are 1 and 0 against Jacksonville Jaguars with a point differential of 16
+Oakland Raiders are 1 and 0 against Jacksonville Jaguars with a point differential of 10
+
+Kansas City Chiefs @ Denver Broncos: Denver Broncos won by 10 points
+Denver Broncos @ Kansas City Chiefs: Denver Broncos won by 7 points
+Oakland Raiders @ Kansas City Chiefs: Oakland Raiders lost by 17 points
+Kansas City Chiefs @ Oakland Raiders: Oakland Raiders lost by 25 points
+Denver Broncos are 2 and 0 against Kansas City Chiefs with a point differential of 17
+Oakland Raiders are 0 and 2 against Kansas City Chiefs with a point differential of -42
+
+Denver Broncos are 10 and 2 against all common opponents.
+Oakland Raiders are 3 and 9 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+Kansas City Chiefs @ San Diego Chargers
+
+--Records against the spread--
+
+Kansas City Chiefs: total = 0.533, home = 0.25, away = 0.857
+San Diego Chargers: total = 0.6, home = 0.714, away = 0.5
+Kansas City Chiefs wins against the spread.
+
+--Records against common opponents--
+
+Kansas City Chiefs @ Jacksonville Jaguars: Kansas City Chiefs won by 26 points
+San Diego Chargers @ Jacksonville Jaguars: San Diego Chargers won by 18 points
+Kansas City Chiefs are 1 and 0 against Jacksonville Jaguars with a point differential of 26
+San Diego Chargers are 1 and 0 against Jacksonville Jaguars with a point differential of 18
+
+Dallas Cowboys @ Kansas City Chiefs: Kansas City Chiefs won by 1 points
+Dallas Cowboys @ San Diego Chargers: San Diego Chargers won by 9 points
+Kansas City Chiefs are 1 and 0 against Dallas Cowboys with a point differential of 1
+San Diego Chargers are 1 and 0 against Dallas Cowboys with a point differential of 9
+
+Kansas City Chiefs @ Philadelphia Eagles: Kansas City Chiefs won by 10 points
+San Diego Chargers @ Philadelphia Eagles: San Diego Chargers won by 3 points
+Kansas City Chiefs are 1 and 0 against Philadelphia Eagles with a point differential of 10
+San Diego Chargers are 1 and 0 against Philadelphia Eagles with a point differential of 3
+
+New York Giants @ Kansas City Chiefs: Kansas City Chiefs won by 24 points
+New York Giants @ San Diego Chargers: San Diego Chargers won by 23 points
+Kansas City Chiefs are 1 and 0 against New York Giants with a point differential of 24
+San Diego Chargers are 1 and 0 against New York Giants with a point differential of 23
+
+Houston Texans @ Kansas City Chiefs: Kansas City Chiefs won by 1 points
+Houston Texans @ San Diego Chargers: San Diego Chargers lost by 3 points
+Kansas City Chiefs are 1 and 0 against Houston Texans with a point differential of 1
+San Diego Chargers are 0 and 1 against Houston Texans with a point differential of -3
+
+Indianapolis Colts @ Kansas City Chiefs: Kansas City Chiefs lost by 16 points
+Indianapolis Colts @ San Diego Chargers: San Diego Chargers won by 10 points
+Kansas City Chiefs are 0 and 1 against Indianapolis Colts with a point differential of -16
+San Diego Chargers are 1 and 0 against Indianapolis Colts with a point differential of 10
+
+Kansas City Chiefs @ Tennessee Titans: Kansas City Chiefs won by 9 points
+San Diego Chargers @ Tennessee Titans: San Diego Chargers lost by 3 points
+Kansas City Chiefs are 1 and 0 against Tennessee Titans with a point differential of 9
+San Diego Chargers are 0 and 1 against Tennessee Titans with a point differential of -3
+
+Oakland Raiders @ Kansas City Chiefs: Kansas City Chiefs won by 17 points
+Kansas City Chiefs @ Oakland Raiders: Kansas City Chiefs won by 25 points
+San Diego Chargers @ Oakland Raiders: San Diego Chargers lost by 10 points
+Oakland Raiders @ San Diego Chargers: San Diego Chargers won by 13 points
+Kansas City Chiefs are 2 and 0 against Oakland Raiders with a point differential of 42
+San Diego Chargers are 1 and 1 against Oakland Raiders with a point differential of 3
+
+Kansas City Chiefs @ Denver Broncos: Kansas City Chiefs lost by 10 points
+Denver Broncos @ Kansas City Chiefs: Kansas City Chiefs lost by 7 points
+Denver Broncos @ San Diego Chargers: San Diego Chargers lost by 8 points
+San Diego Chargers @ Denver Broncos: San Diego Chargers won by 7 points
+Kansas City Chiefs are 0 and 2 against Denver Broncos with a point differential of -17
+San Diego Chargers are 1 and 1 against Denver Broncos with a point differential of -1
+
+Kansas City Chiefs @ Washington Redskins: Kansas City Chiefs won by 35 points
+San Diego Chargers @ Washington Redskins: San Diego Chargers lost by 6 points
+Kansas City Chiefs are 1 and 0 against Washington Redskins with a point differential of 35
+San Diego Chargers are 0 and 1 against Washington Redskins with a point differential of -6
+
+Kansas City Chiefs are 9 and 3 against all common opponents.
+San Diego Chargers are 7 and 5 against all common opponents.
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+
+St. Louis Rams @ Seattle Seahawks
+
+--Records against the spread--
+
+St. Louis Rams: total = 0.467, home = 0.625, away = 0.286
+Seattle Seahawks: total = 0.667, home = 0.571, away = 0.75
+Seattle Seahawks wins against the spread.
+
+--Records against common opponents--
+
+San Francisco 49ers @ St. Louis Rams: St. Louis Rams lost by 24 points
+St. Louis Rams @ San Francisco 49ers: St. Louis Rams lost by 10 points
+San Francisco 49ers @ Seattle Seahawks: Seattle Seahawks won by 26 points
+Seattle Seahawks @ San Francisco 49ers: Seattle Seahawks lost by 2 points
+St. Louis Rams are 0 and 2 against San Francisco 49ers with a point differential of -34
+Seattle Seahawks are 1 and 1 against San Francisco 49ers with a point differential of 24
+
+St. Louis Rams @ Houston Texans: St. Louis Rams won by 25 points
+Seattle Seahawks @ Houston Texans: Seattle Seahawks won by 3 points
+St. Louis Rams are 1 and 0 against Houston Texans with a point differential of 25
+Seattle Seahawks are 1 and 0 against Houston Texans with a point differential of 3
+
+St. Louis Rams @ Carolina Panthers: St. Louis Rams lost by 15 points
+Seattle Seahawks @ Carolina Panthers: Seattle Seahawks won by 5 points
+St. Louis Rams are 0 and 1 against Carolina Panthers with a point differential of -15
+Seattle Seahawks are 1 and 0 against Carolina Panthers with a point differential of 5
+
+Tennessee Titans @ St. Louis Rams: St. Louis Rams lost by 7 points
+Tennessee Titans @ Seattle Seahawks: Seattle Seahawks won by 7 points
+St. Louis Rams are 0 and 1 against Tennessee Titans with a point differential of -7
+Seattle Seahawks are 1 and 0 against Tennessee Titans with a point differential of 7
+
+Tampa Bay Buccaneers @ St. Louis Rams: St. Louis Rams won by 10 points
+Tampa Bay Buccaneers @ Seattle Seahawks: Seattle Seahawks won by 3 points
+St. Louis Rams are 1 and 0 against Tampa Bay Buccaneers with a point differential of 10
+Seattle Seahawks are 1 and 0 against Tampa Bay Buccaneers with a point differential of 3
+
+Arizona Cardinals @ St. Louis Rams: St. Louis Rams won by 3 points
+St. Louis Rams @ Arizona Cardinals: St. Louis Rams lost by 20 points
+Seattle Seahawks @ Arizona Cardinals: Seattle Seahawks won by 12 points
+Arizona Cardinals @ Seattle Seahawks: Seattle Seahawks lost by 7 points
+St. Louis Rams are 1 and 1 against Arizona Cardinals with a point differential of -17
+Seattle Seahawks are 1 and 1 against Arizona Cardinals with a point differential of 5
+
+St. Louis Rams @ Atlanta Falcons: St. Louis Rams lost by 7 points
+Seattle Seahawks @ Atlanta Falcons: Seattle Seahawks won by 23 points
+St. Louis Rams are 0 and 1 against Atlanta Falcons with a point differential of -7
+Seattle Seahawks are 1 and 0 against Atlanta Falcons with a point differential of 23
+
+Jacksonville Jaguars @ St. Louis Rams: St. Louis Rams won by 14 points
+Jacksonville Jaguars @ Seattle Seahawks: Seattle Seahawks won by 28 points
+St. Louis Rams are 1 and 0 against Jacksonville Jaguars with a point differential of 14
+Seattle Seahawks are 1 and 0 against Jacksonville Jaguars with a point differential of 28
+
+St. Louis Rams @ Indianapolis Colts: St. Louis Rams won by 30 points
+Seattle Seahawks @ Indianapolis Colts: Seattle Seahawks lost by 6 points
+St. Louis Rams are 1 and 0 against Indianapolis Colts with a point differential of 30
+Seattle Seahawks are 0 and 1 against Indianapolis Colts with a point differential of -6
+
+New Orleans Saints @ St. Louis Rams: St. Louis Rams won by 11 points
+New Orleans Saints @ Seattle Seahawks: Seattle Seahawks won by 27 points
+St. Louis Rams are 1 and 0 against New Orleans Saints with a point differential of 11
+Seattle Seahawks are 1 and 0 against New Orleans Saints with a point differential of 27
+
+St. Louis Rams are 6 and 6 against all common opponents.
+Seattle Seahawks are 9 and 3 against all common opponents.
+---------------------------------------------------------------------------------------
+
