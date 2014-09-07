@@ -49,7 +49,7 @@ func main() {
 		os.Exit(1)
 	}
 	matchups := g.ReadMatchupsFromCSV(currentMatchupsURI, spreadRecords)
-	matchupRecords := g.ReadMatchupRecordsFromCSV("data/matchup_records.csv")
+	matchupRecords := g.ReadMatchupRecordsFromCSV(historicalMatchupsURI)
 
 	for _, matchup := range matchups {
 		awayTeam := matchup.Away
