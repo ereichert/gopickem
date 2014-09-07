@@ -42,7 +42,7 @@ func ReadMatchupsFromCSV(fileLocation string, spreadrecords map[string]SpreadRec
 		return nil, err
 	}
 
-	var matchups []Matchup
+	var matchups Matchups
 	for _, record := range records {
 		awayTeam := spreadrecords[record[away]]
 		homeTeam := spreadrecords[record[home]]
