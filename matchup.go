@@ -7,24 +7,24 @@ import (
 )
 
 type Matchup struct {
-	Away SpreadRecord
-	Home SpreadRecord
+	AwayTeam SpreadRecord
+	HomeTeam SpreadRecord
 }
 
 type Matchups []Matchup
 
 type NewMatchup struct {
-	Away string
-	Home string
+	AwayTeam string
+	HomeTeam string
 }
 
 type NewMatchups []NewMatchup
 
 func (m Matchup) WinnerAgainstTheSpread() string {
-	if m.Home.HomeWinningPercentage() >= m.Away.AwayWinningPercentage() {
-		return m.Home.Team
+	if m.HomeTeam.HomeWinningPercentage() >= m.AwayTeam.AwayWinningPercentage() {
+		return m.HomeTeam.Team
 	} else {
-		return m.Away.Team
+		return m.AwayTeam.Team
 	}
 }
 

@@ -61,8 +61,8 @@ func main() {
 	matchupRecords := g.ReadMatchupRecordsFromCSV(historicalMatchupsURI)
 
 	for _, matchup := range matchups {
-		awayTeam := matchup.Away
-		homeTeam := matchup.Home
+		awayTeam := matchup.AwayTeam
+		homeTeam := matchup.HomeTeam
 		awayTeamMatchupRec := matchupRecords[awayTeam.Team]
 		homeTeamMatchupRec := matchupRecords[homeTeam.Team]
 
