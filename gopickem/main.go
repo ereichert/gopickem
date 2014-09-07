@@ -48,7 +48,11 @@ func main() {
 		fmt.Println(err.Error())
 		os.Exit(1)
 	}
+
+	fmt.Printf("Reading the matchups from %s.\n", currentMatchupsURI)
 	matchups := g.ReadMatchupsFromCSV(currentMatchupsURI, spreadRecords)
+
+	fmt.Printf("Reading the historical matchups from %s.\n", historicalMatchupsURI)
 	matchupRecords := g.ReadMatchupRecordsFromCSV(historicalMatchupsURI)
 
 	for _, matchup := range matchups {
