@@ -20,7 +20,7 @@ type NewMatchup struct {
 
 type NewMatchups []NewMatchup
 
-func (m Matchup) WinnerAgainstTheSpread() string {
+func (m Matchup) PickWinnerAgainstTheSpread() string {
 	if m.HomeTeam.HomeWinningPercentage() >= m.AwayTeam.AwayWinningPercentage() {
 		return m.HomeTeam.Team
 	} else {

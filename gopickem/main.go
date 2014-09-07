@@ -73,7 +73,7 @@ func main() {
 		fmt.Println("--Records against the spread--\n")
 		fmt.Printf("%v: total = %.3v, home = %.3v, away = %.3v\n", awayTeam.Team, awayTeam.TotalWinningPercentage(), awayTeam.HomeWinningPercentage(), awayTeam.AwayWinningPercentage())
 		fmt.Printf("%v: total = %.3v, home = %.3v, away = %.3v\n", homeTeam.Team, homeTeam.TotalWinningPercentage(), homeTeam.HomeWinningPercentage(), homeTeam.AwayWinningPercentage())
-		fmt.Printf("%v wins against the spread.\n\n", matchup.WinnerAgainstTheSpread())
+		fmt.Printf("%v wins against the spread.\n\n", matchup.PickWinnerAgainstTheSpread())
 
 		fmt.Println("--Records against common opponents--\n")
 		awayTotalWins := 0
