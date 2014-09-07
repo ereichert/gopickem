@@ -11,8 +11,9 @@ func main() {
 	fmt.Println("Starting Go Pickem.")
 
 	var opts struct {
-		SpreadsFileURI     string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
-		CurrentMatchupsURI string `short:"c" long:"currentmatchups" description:"The URI of the file having this weeks matchups."`
+		SpreadsFileURI        string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
+		CurrentMatchupsURI    string `short:"c" long:"currentmatchups" description:"The URI of the file having this weeks matchups."`
+		HistoricalMatchupsURI string `short:"r" long:"matchuprecords" description:"The URI of the file having the historical matchups."`
 	}
 	_, err := flags.Parse(&opts)
 	if err != nil {
@@ -30,6 +31,12 @@ func main() {
 	currentMatchupsURI := opts.CurrentMatchupsURI
 	if currentMatchupsURI == "" {
 		fmt.Println("You must specify the path to the file having the matchups for the week.")
+		os.Exit(1)
+	}
+
+	historicalMatchupsURI := opts.HistoricalMatchupsURI
+	if historicalMatchupsURI == "" {
+		fmt.Println("You must specify the path to the file having the historical matchups data.")
 		os.Exit(1)
 	}
 
