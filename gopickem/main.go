@@ -50,7 +50,12 @@ func main() {
 	}
 
 	fmt.Printf("Reading the matchups from %s.\n", currentMatchupsURI)
-	matchups := g.ReadMatchupsFromCSV(currentMatchupsURI, spreadRecords)
+	matchups, err := g.ReadMatchupsFromCSV(currentMatchupsURI, spreadRecords)
+	if err != nil {
+		fmt.Printf("An error occured while trying to read the matchups from %s.\n", currentMatchupsURI)
+		fmt.Println(err)
+		os.Exit(1)
+	}
 
 	fmt.Printf("Reading the historical matchups from %s.\n", historicalMatchupsURI)
 	matchupRecords := g.ReadMatchupRecordsFromCSV(historicalMatchupsURI)

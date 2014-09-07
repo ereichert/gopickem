@@ -2,8 +2,8 @@ package gopickem
 
 import (
 	"encoding/csv"
-	"os"
 	"io"
+	"os"
 )
 
 type Matchup struct {
@@ -28,28 +28,28 @@ func (m Matchup) WinnerAgainstTheSpread() string {
 	}
 }
 
-func ReadMatchupsFromCSV(fileLocation string, spreadrecords map[string]SpreadRecord) []Matchup {
+func ReadMatchupsFromCSV(fileLocation string, spreadrecords map[string]SpreadRecord) ([]Matchup, error) {
 	csvFile, err := os.Open(fileLocation)
 	defer csvFile.Close()
 	if err != nil {
-		panic(err)
+		return nil, err
 	}
 
 	reader := csv.NewReader(csvFile)
 	reader.FieldsPerRecord = 2
 	records, err := reader.ReadAll()
 	if err != nil {
-		panic(err)
+		return nil, err
 	}
 
-	matchups := make([]Matchup, len(records))
-	for i, record := range records {
+	var matchups []Matchup
+	for _, record := range records {
 		awayTeam := spreadrecords[record[away]]
 		homeTeam := spreadrecords[record[home]]
-		matchups[i] = Matchup{awayTeam, homeTeam}
+		matchups = append(matchups, Matchup{awayTeam, homeTeam})
 	}
 
-	return matchups
+	return matchups, nil
 }
 
 func ReadMatchupsFromCSVFormattedRecords(csvReader io.Reader) (matchups NewMatchups, err error) {
@@ -58,7 +58,7 @@ func ReadMatchupsFromCSVFormattedRecords(csvReader io.Reader) (matchups NewMatch
 
 	records, err := reader.ReadAll()
 
-	if(err == nil) {
+	if err == nil {
 		matchups = make(NewMatchups, len(records))
 		for i, record := range records {
 			matchups[i] = NewMatchup{record[away], record[home]}
