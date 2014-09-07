@@ -3,12 +3,30 @@ package main
 import (
 	"fmt"
 	g "github.com/ereichert/gopickem"
+	"github.com/jessevdk/go-flags"
 	"os"
 )
 
 func main() {
-	fmt.Println("Pickem 0.1.0-SNAPSHOT.\n")
-	spreadRecordsFilename := "data/ats.csv"
+	fmt.Println("Starting Go Pickem.")
+
+	var opts struct {
+		SpreadURI string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
+	}
+	_, err := flags.Parse(&opts)
+	if err != nil {
+		fmt.Println("An error occured while trying to parse the command line argument.")
+		fmt.Println(err.Error())
+		os.Exit(1)
+	}
+
+	spreadRecordsFilename := opts.SpreadURI
+	if spreadRecordsFilename == "" {
+		fmt.Println("You must specify the path to the file having the spreads for the week.")
+		os.Exit(1)
+	}
+
+	fmt.Printf("Reading the spreads from %s.\n", spreadRecordsFilename)
 
 	spreadRecords, err := g.ReadSpreadRecordsFromCSVFile(spreadRecordsFilename)
 	if err != nil {
