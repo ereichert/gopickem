@@ -11,7 +11,8 @@ func main() {
 	fmt.Println("Starting Go Pickem.")
 
 	var opts struct {
-		SpreadURI string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
+		SpreadsFileURI     string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
+		CurrentMatchupsURI string `short:"c" long:"currentmatchups" description:"The URI of the file having this weeks matchups."`
 	}
 	_, err := flags.Parse(&opts)
 	if err != nil {
@@ -20,21 +21,27 @@ func main() {
 		os.Exit(1)
 	}
 
-	spreadRecordsFilename := opts.SpreadURI
-	if spreadRecordsFilename == "" {
+	spreadsFileURI := opts.SpreadsFileURI
+	if spreadsFileURI == "" {
 		fmt.Println("You must specify the path to the file having the spreads for the week.")
 		os.Exit(1)
 	}
 
-	fmt.Printf("Reading the spreads from %s.\n", spreadRecordsFilename)
-
-	spreadRecords, err := g.ReadSpreadRecordsFromCSVFile(spreadRecordsFilename)
-	if err != nil {
-		fmt.Printf("An error occured while trying to read the spread records from %v.\n", spreadRecordsFilename)
-		fmt.Printf("The error was \n%v.\n", err.Error())
+	currentMatchupsURI := opts.CurrentMatchupsURI
+	if currentMatchupsURI == "" {
+		fmt.Println("You must specify the path to the file having the matchups for the week.")
 		os.Exit(1)
 	}
-	matchups := g.ReadMatchupsFromCSV("data/matchups.csv", spreadRecords)
+
+	fmt.Printf("Reading the spreads from %s.\n", spreadsFileURI)
+
+	spreadRecords, err := g.ReadSpreadRecordsFromCSVFile(spreadsFileURI)
+	if err != nil {
+		fmt.Printf("An error occured while trying to read the spread records from %s.\n", spreadsFileURI)
+		fmt.Println(err.Error())
+		os.Exit(1)
+	}
+	matchups := g.ReadMatchupsFromCSV(currentMatchupsURI, spreadRecords)
 	matchupRecords := g.ReadMatchupRecordsFromCSV("data/matchup_records.csv")
 
 	for _, matchup := range matchups {
