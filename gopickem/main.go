@@ -58,13 +58,13 @@ func main() {
 	}
 
 	fmt.Printf("Reading the historical matchups from %s.\n", historicalMatchupsURI)
-	matchupRecords := g.ReadMatchupRecordsFromCSV(historicalMatchupsURI)
+	historicalMatchups := g.ReadHistoricalMatchupsFromCSV(historicalMatchupsURI)
 
 	for _, matchup := range matchups {
 		awayTeam := matchup.AwayTeam
 		homeTeam := matchup.HomeTeam
-		awayTeamMatchupRec := matchupRecords[awayTeam.Team]
-		homeTeamMatchupRec := matchupRecords[homeTeam.Team]
+		awayTeamMatchupRec := historicalMatchups[awayTeam.Team]
+		homeTeamMatchupRec := historicalMatchups[homeTeam.Team]
 
 		fmt.Println("---------------------------------------------------------------------------------------\n")
 
@@ -100,7 +100,7 @@ func main() {
 	}
 }
 
-func reportMatchupRecord(mr []g.MatchupRecord, teamOfInterest string) (int, int, int) {
+func reportMatchupRecord(mr []g.HistoricalMatchup, teamOfInterest string) (int, int, int) {
 	wins := 0
 	losses := 0
 	diff := 0

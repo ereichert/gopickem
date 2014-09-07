@@ -6,17 +6,17 @@ import (
 	"strconv"
 )
 
-type MatchupRecord struct {
+type HistoricalMatchup struct {
 	AwayTeam          string
 	HomeTeam          string
 	Winner            string
 	PointDifferential int
 }
 
-type MatchupsPerOpponent map[string][]MatchupRecord
+type MatchupsPerOpponent map[string][]HistoricalMatchup
 type MatchupsPerTeam map[string]MatchupsPerOpponent
 
-func ReadMatchupRecordsFromCSV(fileLocation string) MatchupsPerTeam {
+func ReadHistoricalMatchupsFromCSV(fileLocation string) MatchupsPerTeam {
 	const locationFlag = "@"
 	csvFile, err := os.Open(fileLocation)
 	defer csvFile.Close()
@@ -33,11 +33,11 @@ func ReadMatchupRecordsFromCSV(fileLocation string) MatchupsPerTeam {
 
 	matchupRecords := make(MatchupsPerTeam)
 
-	fileMatchupRecord := func(teamName string, opponentName string, mr MatchupRecord) {
+	fileHistoricalMatchup := func(teamName string, opponentName string, mr HistoricalMatchup) {
 		if opponents, ok := matchupRecords[teamName]; ok {
 			opponents[opponentName] = append(opponents[opponentName], mr)
 		} else {
-			matchupRecords[teamName] = map[string][]MatchupRecord{opponentName: []MatchupRecord{mr}}
+			matchupRecords[teamName] = map[string][]HistoricalMatchup{opponentName: []HistoricalMatchup{mr}}
 		}
 	}
 
@@ -51,15 +51,15 @@ func ReadMatchupRecordsFromCSV(fileLocation string) MatchupsPerTeam {
 	}
 
 	for _, record := range records {
-		var matchupRecord MatchupRecord
+		var matchupRecord HistoricalMatchup
 		if record[csvLocationFlag] == locationFlag {
-			matchupRecord = MatchupRecord{record[csvWinningTeam], record[csvLosingTeam], record[csvWinningTeam], pointDifferential(record)}
+			matchupRecord = HistoricalMatchup{record[csvWinningTeam], record[csvLosingTeam], record[csvWinningTeam], pointDifferential(record)}
 		} else {
-			matchupRecord = MatchupRecord{record[csvLosingTeam], record[csvWinningTeam], record[csvWinningTeam], pointDifferential(record)}
+			matchupRecord = HistoricalMatchup{record[csvLosingTeam], record[csvWinningTeam], record[csvWinningTeam], pointDifferential(record)}
 		}
 
-		fileMatchupRecord(matchupRecord.AwayTeam, matchupRecord.HomeTeam, matchupRecord)
-		fileMatchupRecord(matchupRecord.HomeTeam, matchupRecord.AwayTeam, matchupRecord)
+		fileHistoricalMatchup(matchupRecord.AwayTeam, matchupRecord.HomeTeam, matchupRecord)
+		fileHistoricalMatchup(matchupRecord.HomeTeam, matchupRecord.AwayTeam, matchupRecord)
 	}
 
 	if len(matchupRecords) != numberOfNFLTeams {
