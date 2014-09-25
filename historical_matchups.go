@@ -71,7 +71,7 @@ func ReadHistoricalMatchupsFromCSV(fileLocation string) MatchupsPerTeam {
 		for _, opp := range mr {
 			mrLen = mrLen + len(opp)
 		}
-		if mrLen != 1 && mrLen != 2 {
+		if mrLen != 2 && mrLen != 3 {
 			panic("bad number of matchups")
 		}
 	}
