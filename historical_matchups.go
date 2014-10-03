@@ -2,6 +2,7 @@ package gopickem
 
 import (
 	"encoding/csv"
+	"fmt"
 	"os"
 	"strconv"
 )
@@ -16,7 +17,7 @@ type HistoricalMatchup struct {
 type MatchupsPerOpponent map[string][]HistoricalMatchup
 type MatchupsPerTeam map[string]MatchupsPerOpponent
 
-func ReadHistoricalMatchupsFromCSV(fileLocation string) MatchupsPerTeam {
+func ReadHistoricalMatchupsFromCSV(fileLocation string, weekOfSeason int) MatchupsPerTeam {
 	const locationFlag = "@"
 	csvFile, err := os.Open(fileLocation)
 	defer csvFile.Close()
@@ -71,8 +72,8 @@ func ReadHistoricalMatchupsFromCSV(fileLocation string) MatchupsPerTeam {
 		for _, opp := range mr {
 			mrLen = mrLen + len(opp)
 		}
-		if mrLen != 2 && mrLen != 3 {
-			panic("bad number of matchups")
+		if mrLen != weekOfSeason-2 && mrLen != weekOfSeason-1 {
+			panic(fmt.Sprintf("bad number of matchups, number of matchups = %d, week number = %d", mrLen, weekOfSeason))
 		}
 	}
 

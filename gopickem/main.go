@@ -14,6 +14,7 @@ func main() {
 		SpreadsFileURI        string `short:"s" long:"spreaduri" description:"The URI of the file having the spread records."`
 		CurrentMatchupsURI    string `short:"c" long:"currentmatchups" description:"The URI of the file having this weeks matchups."`
 		HistoricalMatchupsURI string `short:"r" long:"matchuprecords" description:"The URI of the file having the historical matchups."`
+		WeekOfSeason          int    `short:"w" long:"weekofseason" description:"The week of the season."`
 	}
 	_, err := flags.Parse(&opts)
 	if err != nil {
@@ -40,6 +41,12 @@ func main() {
 		os.Exit(1)
 	}
 
+	weekOfSeason := opts.WeekOfSeason
+	if weekOfSeason == 0 {
+		fmt.Println("You must specify the week number of the season.")
+		os.Exit(1)
+	}
+
 	fmt.Printf("Reading the spreads from %s.\n", spreadsFileURI)
 
 	spreadRecords, err := g.ReadSpreadRecordsFromCSVFile(spreadsFileURI)
@@ -58,7 +65,7 @@ func main() {
 	}
 
 	fmt.Printf("Reading the historical matchups from %s.\n", historicalMatchupsURI)
-	historicalMatchups := g.ReadHistoricalMatchupsFromCSV(historicalMatchupsURI)
+	historicalMatchups := g.ReadHistoricalMatchupsFromCSV(historicalMatchupsURI, weekOfSeason)
 
 	for _, matchup := range matchups {
 		awayTeam := matchup.AwayTeam

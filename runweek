@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gopickem -s data/ats.csv -c data/matchups.csv -r data/matchup_history.csv -w $1
